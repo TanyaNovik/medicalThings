@@ -264,3 +264,46 @@ border: 1px solid rgba(255, 255, 255, 0.7);bottom: 1em;content: '';left: 1em;opa
 .maps iframe{
     pointer-events: none;
 }
+
+.maps p{
+	font-weight: 400;
+	text-transform: none;
+	font-size: 25px;
+	color: #333;
+	font-family: 'Didact_Gothic';
+	padding: 13px 30px;
+}
+.maps .titl{
+	font-size: 35px;
+}
+
+.contact_content .titl{
+	font-weight: 400;
+	text-transform: none;
+	font-size: 35px;
+	color: #333;
+	font-family: 'Didact_Gothic';
+	padding: 13px 30px;
+	text-align: left;
+}
+
+.contact_content .cont{
+	font-weight: 400;
+	text-transform: none;
+	font-size: 25px;
+	color: #333;
+	font-family: 'Didact_Gothic';
+	padding: 13px 30px;
+
+	line-height: 16px;
+	text-align: left;
+}
+
+.tbl {
+	border: 2px;
+}
+
+.tbl td {
+	border: 2px;
+	padding: 15px;
+}
